@@ -82,13 +82,13 @@
 **Задача:** Бинарная классификация токсичных комментариев на английском языке  
 **Навыки:** Обработка текстов, TF-IDF, линейные модели, сравнение с BERT  
 **Стек:** `scikit-learn` `NLTK` `pandas` `numpy` `BERT`  
-[▶️ Открыть проект](https://github.com/ajmailova/Yandex-practicum-projects/tree/main/project12_toxic_comments)
+[▶️ Открыть проект](https://github.com/ajmailova/Yandex-practicum-projects/tree/main/project12_NLP)
 
 ### 👤 Определение возраста по фотографии
 **Задача:** Регрессионная модель для оценки возраста человека по фото  
 **Навыки:** Трансферное обучение, работа с изображениями, аугментация, MAE-оптимизация  
 **Стек:** `TensorFlow` `ResNet50` `ImageDataGenerator` `pandas` `matplotlib`  
-[▶️ Открыть проект](https://github.com/ajmailova/Yandex-practicum-projects/tree/main/project13_age_prediction)
+[▶️ Открыть проект](https://github.com/ajmailova/Yandex-practicum-projects/tree/main/project13_CV)
 
 ---
 
